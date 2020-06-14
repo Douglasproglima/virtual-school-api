@@ -1,5 +1,5 @@
 {
-  "name": "escola-virtual",
+  "name": "escola-virtual-api",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Douglasproglima/escola-virutal.git"
+    "url": "git+https://github.com/Douglasproglima/virtual-school-api.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Douglasproglima/escola-virutal/issues"
+    "url": "https://github.com/Douglasproglima/virtual-school-api/issues"
   },
-  "homepage": "https://github.com/Douglasproglima/escola-virutal#readme",
+  "homepage": "https://github.com/Douglasproglima/virtual-school-api#readme",
   "devDependencies": {
     "eslint": "^7.0.0",
     "eslint-config-airbnb-base": "^14.1.0",
