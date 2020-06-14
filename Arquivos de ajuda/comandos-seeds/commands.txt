@@ -1,0 +1,10 @@
+//Cria o seed de User na pasta Databases->Migrations
+  npx sequelize seed:generate --name create-user
+
+//Depois de configurar o copor da classe gerada, rodar o comando abaixo para gerar os dados
+  npx sequelize db:seed:all
+
+//Alterar Tabela de Students para definir email como uniqueKey
+npx sequelize migration:create --name=alter-email-student-uniquekey
+
+npx sequelize db:migrate

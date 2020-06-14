@@ -1,0 +1,2 @@
+//Cria um delay ao consultar dados da API para exibir o load  no front
+npm i express-delay
